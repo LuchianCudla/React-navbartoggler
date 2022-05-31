@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-navbartoggler/static/css/main.374be2c4.css",
+    "main.js": "/React-navbartoggler/static/js/main.b8d1150b.js",
+    "index.html": "/React-navbartoggler/index.html",
+    "main.374be2c4.css.map": "/React-navbartoggler/static/css/main.374be2c4.css.map",
+    "main.b8d1150b.js.map": "/React-navbartoggler/static/js/main.b8d1150b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.374be2c4.css",
+    "static/js/main.b8d1150b.js"
+  ]
+}
